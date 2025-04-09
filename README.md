@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 
 ## 📫 How to reach me
 
-- **Email**: juluruakhil@example.com
+- **Email**: akhil.juluru@gmail.com
 - **LinkedIn**: [Akhil Juluru](https://www.linkedin.com/in/akhil-juluru/)
-- **Twitter**: [@akhil_juluru](https://twitter.com/akhil_juluru)
+- **X**: [@akhil_juluru](https://x.com/Jakhil69)
 
 ## 📝 Resume
 
