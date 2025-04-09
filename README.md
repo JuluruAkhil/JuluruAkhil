@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 
 - **Email**: akhil.juluru@gmail.com
 - **LinkedIn**: [Akhil Juluru](https://www.linkedin.com/in/akhil-juluru/)
-- **X**: [@akhil_juluru](https://x.com/Jakhil69)
+- **X**: [@Jakhil69](https://x.com/Jakhil69)
 
 ## 📝 Resume
 
