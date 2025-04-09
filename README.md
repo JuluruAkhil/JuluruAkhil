@@ -1,6 +1,6 @@
 # Hi there, I'm Akhil Juluru 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong interest in web development, data science, and machine learning. Below you can find some of the projects I have worked on and my contributions to the open-source community.
+Welcome to my GitHub profile! I'm a passionate developer with a strong interest in web development
 
 ## 🛠️ Technologies & Tools
 
