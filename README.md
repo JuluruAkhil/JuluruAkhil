@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 
 ## 📝 Resume
 
-You can view my resume [here](https://github.com/JuluruAkhil/portfolio-starter-kit/blob/main/public/Akhil_Juluru_Resume.pdf).
+You can view my resume [here](https://akhilj.dev/Akhil_Juluru_Resume.pdf).
 
 ## 🚀 About Me
 
